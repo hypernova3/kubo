@@ -91,6 +91,9 @@ Before opening an issue, consider using one of the following locations to ensure
   - [Contributing](#contributing)
   - [License](#license)
 
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fhypernova3%2Fkubo.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fhypernova3%2Fkubo?ref=badge_large)
+
 ## Security Issues
 
 Please follow [`SECURITY.md`](SECURITY.md).
@@ -111,6 +114,7 @@ If your system is resource-constrained, we recommend:
 ### Docker
 
 [![Docker Image Version (legacy name)](https://img.shields.io/docker/v/ipfs/go-ipfs?color=blue&label=go-ipfs%20docker%20image&logo=docker&sort=semver&style=flat-square&cacheSeconds=3600)](https://hub.docker.com/r/ipfs/go-ipfs/)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fhypernova3%2Fkubo.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fhypernova3%2Fkubo?ref=badge_shield)
 <!-- TODO: replace with kubo after we have minimum set of images after kubo 0.14 (stable semver release, 'latest' and 'release' docker tags)
 [![Docker Image Version (latest semver)](https://img.shields.io/docker/v/ipfs/kubo?color=blue&label=kubo%20docker%20image&logo=docker&sort=semver&style=flat-square&cacheSeconds=3600)](https://hub.docker.com/r/ipfs/kubo/)
 -->
